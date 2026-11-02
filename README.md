@@ -1,6 +1,6 @@
-# switch-iphone-control
+# switch-phone-control
 
-把 iPhone(或任何手機)變成 Switch 模擬器的手把。最多 4 支手機，各自當 P1 到 P4。
+把手機(iPhone、Android 都可以,只要有瀏覽器)變成 Switch 模擬器的手把。最多 4 支手機，各自當 P1 到 P4。
 
 手機用瀏覽器打開一個網頁就是手把；電腦上的伺服器把按鍵轉成 **DSU（cemuhook）UDP 手把**，
 支援 DSU 的模擬器（例如 Eden、Cemu、Dolphin）直接讀得到。完全不經過鍵盤，
