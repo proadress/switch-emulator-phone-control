@@ -1,4 +1,4 @@
-# switch-phone-control
+# switch-emulator-phone-control
 
 把手機(iPhone、Android 都可以,只要有瀏覽器)變成 Switch 模擬器的手把。最多 4 支手機，各自當 P1 到 P4。
 
